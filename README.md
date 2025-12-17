@@ -4,18 +4,19 @@
 
   # Haro
   
-  ### 🖥️ Analista de Suporte Sênior | DBA & Game Dev | Especialista Windows
+  ### 🖥️ Analista de Suporte | DBA & Security | Especialista Windows
   
   > *"I wouldn't take back a moment... I'll give it all 'til there's nothing left."* — **Asking Alexandria**
   
   <br>
 
   <p align="center" width="90%">
-    Baseado em <b>Santa Catarina, Brasil</b>, atuo na interseção entre <b>Infraestrutura de TI, Banco de Dados e Desenvolvimento</b>.
+    🎓 Cursando <b>Análise e Desenvolvimento de Sistemas (ADS)</b> na <b>UNOESC</b>.
     <br><br>
-    Minha trajetória é marcada pela criação de <b>soluções robustas</b> para problemas complexos. Seja desenvolvendo utilitários desktop para otimizar o fluxo de trabalho no Windows, administrando bancos de dados críticos em servidores de jogos de alta performance, ou prestando suporte especializado em documentos fiscais.
+    Baseado em <b>Santa Catarina, Brasil</b>, atuo na interseção entre <b>Infraestrutura de TI, Banco de Dados e Segurança</b>.
+    Minha trajetória é marcada pela criação de soluções robustas, desde utilitários desktop para otimização do Windows até a auditoria de segurança em bancos de dados de jogos.
     <br><br>
-    Meu objetivo é transformar conhecimento técnico em ferramentas que geram <b>eficiência, estabilidade e performance</b>.
+    Meu foco é transformar conhecimento técnico em ferramentas que geram <b>eficiência, proteção e performance</b>.
   </p>
   
   <br>
@@ -26,13 +27,15 @@
     <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
-    <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+    <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
+    <br>
+    <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" />
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
     <br>
     <img src="https://img.shields.io/badge/MySQL-Navicat-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
     <img src="https://img.shields.io/badge/Firebird_SQL-IBExpert-cc0000?style=for-the-badge&logo=firebase&logoColor=white" />
-    <br>
-    <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
     <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
   </div>
 
@@ -49,21 +52,21 @@
     <td width="50%">
       <h3>🗄️ Database Administrator (DBA)</h3>
       <p>
-        Experiência sólida na administração e manutenção de bancos de dados relacionais em ambientes de produção.
+        Experiência sólida na administração e auditoria de dados.
       </p>
       <ul>
-        <li><b>Firebird & IBExpert:</b> Gestão diária, backup, restore e execução de scripts complexos para manutenção de integridade.</li>
-        <li><b>MySQL & Navicat (Projeto Hardm2.com):</b> Administração completa do banco de dados de um servidor MMORPG. Responsável pela gestão de contas, logs de transações, otimização de queries e balanceamento da economia do jogo via SQL.</li>
+        <li><b>Firebird & IBExpert:</b> Gestão diária e manutenção de integridade de dados corporativos.</li>
+        <li><b>MySQL & Navicat (Hardm2.com):</b> Análise forense de logs e monitoramento de transações. Utilização de queries SQL para rastrear comportamentos suspeitos e garantir a segurança do servidor.</li>
       </ul>
     </td>
     <td width="50%">
       <h3>🔧 Suporte TI & Fiscal</h3>
       <p>
-        Atuação direta na resolução de problemas críticos de infraestrutura e regras de negócio.
+        Atuação direta na resolução de problemas críticos.
       </p>
       <ul>
-        <li><b>Documentos Fiscais:</b> Especialista em trâmites de NFe (Nota Fiscal Eletrônica), NFC-e e SAT, incluindo resolução de rejeições tributárias e configuração de certificados.</li>
-        <li><b>Infraestrutura:</b> Diagnóstico avançado de Hardware e Redes, garantindo alta disponibilidade para operações comerciais.</li>
+        <li><b>Documentos Fiscais:</b> Especialista em NFe, NFC-e e SAT. Resolução de rejeições tributárias e configuração de ambientes em produção.</li>
+        <li><b>Infraestrutura:</b> Diagnóstico avançado de Hardware/Redes e scripts de automação para suporte.</li>
       </ul>
     </td>
   </tr>
@@ -72,19 +75,20 @@
 <table>
   <tr>
     <td width="100%">
-      <h3 align="center">⚔️ Game Development & Content Modding</h3>
+      <h3 align="center">🛡️ Game Security & Administration</h3>
       <p align="center">
-        Como desenvolvedor e administrador no projeto <b>Hardm2.com</b>, fui além do código, atuando diretamente no Core Design do jogo.
+        Atuação como <b>Game Master (GM)</b> e Segurança no projeto <b>Hardm2.com</b>, focando na integridade do ambiente de jogo.
       </p>
       <div align="center">
-         <img src="https://img.shields.io/badge/Metin2-Server_Dev-blueviolet?style=flat-square" />
+         <img src="https://img.shields.io/badge/Security-Log_Analysis-red?style=flat-square" />
+         <img src="https://img.shields.io/badge/Anti--Cheat-Monitoring-blue?style=flat-square" />
          <img src="https://img.shields.io/badge/Asset-Remastering-orange?style=flat-square" />
-         <img src="https://img.shields.io/badge/Game-Balance-green?style=flat-square" />
       </div>
       <br>
       <ul>
-        <li><b>Remasterização de Assets:</b> Revitalização completa de Mobs e Bosses, aprimorando texturas e modelos para modernizar a experiência visual.</li>
-        <li><b>Balanceamento:</b> Ajuste fino de atributos (Dano, HP, Drops) via Database para garantir uma economia justa e desafios engajadores (PvE/PvP).</li>
+        <li><b>Auditoria de Logs:</b> Monitoramento constante via Database para identificação de invasões, uso de hacks, dupes e ataques externos.</li>
+        <li><b>Remasterização:</b> Implementação e ajuste visual de Mobs e Bosses para modernização do jogo.</li>
+        <li><b>Gestão de Crise:</b> Resposta rápida a incidentes de segurança para manter a estabilidade do servidor.</li>
       </ul>
     </td>
   </tr>
@@ -103,7 +107,7 @@
       </a>
       <br><br>
       <p>
-        Aplicação desktop de alta performance para localização de endereços. Implementa algoritmos de busca híbrida (ViaCEP + OSM) para contornar limitações de APIs públicas, essencial para agilizar cadastros em sistemas ERP.
+        Aplicação desktop de alta performance para localização de endereços. Implementa algoritmos de busca híbrida (ViaCEP + OSM), essencial para agilizar cadastros em sistemas ERP.
       </p>
     </td>
     <td width="50%" align="center">
