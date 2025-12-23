@@ -125,10 +125,12 @@
 
 <br>
 
-### 📊 Linguagens Mais Utilizadas
+### 📊 Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akaharo&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9" alt="Most Used Languages" />
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akaharo&theme=dracula" alt="Profile Details" />
+</p>
+
 </div>
 
 <br>
