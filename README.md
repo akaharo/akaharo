@@ -111,13 +111,16 @@
       </p>
     </td>
     <td width="50%" align="center">
-      <h3>⚙️ WinAutomation Tools</h3>
-       <a href="#">
-        <img src="https://img.shields.io/badge/PowerShell-System_Admin-5391FE?style=flat-square" />
+      <h3>❄️ HCooling</h3>
+       <a href="https://github.com/akaharo/HCooling-Installer">
+        <img src="https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white" />
+         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+          <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+         <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
       </a>
       <br><br>
       <p>
-        Ecossistema de scripts e utilitários desenvolvidos para otimização de sistema operacional, automação de backups e gerenciamento de arquivos em massa no Windows.
+        ferramenta prática para gerenciamento de perfis de energia e monitoramento de temperatura do seu sistema.
       </p>
     </td>
   </tr>
