@@ -97,36 +97,49 @@
 <br>
 
 ### 🚀 Projetos em Destaque
-
 <table>
-  <tr>
-    <td width="50%" align="center">
-      <h3>📍 CepFacil</h3>
-      <a href="https://github.com/akaharo/CepFacil">
-        <img src="https://img.shields.io/badge/Windows-Desktop_App-0078D6?style=flat-square" />
-      </a>
-      <br><br>
-      <p>
-        Aplicação desktop de alta performance para localização de endereços. Implementa algoritmos de busca híbrida (ViaCEP + OSM), essencial para agilizar cadastros em sistemas ERP.
-      </p>
-    </td>
-    <td width="50%" align="center">
-      <h3>❄️ HCooling</h3>
-       <a href="https://github.com/akaharo/HCooling-Installer">
-        <img src="https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white" />
-         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-          <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-         <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-      </a>
-      <br><br>
-      <p>
-        ferramenta prática para gerenciamento de perfis de energia e monitoramento de temperatura do seu sistema.
-      </p>
-    </td>
-  </tr>
-</table>
+<tr>
+<td width="33%" align="center">
+<h3>📍 CepFacil</h3>
+<a href="https://github.com/akaharo/CepFacil">
+<img src="https://img.shields.io/badge/Windows-Desktop_App-0078D6?style=flat-square" />
+</a>
 
-<br>
+
+
+<p>
+Aplicação desktop de alta performance para localização de endereços com busca híbrida (ViaCEP + OSM).
+</p>
+</td>
+<td width="33%" align="center">
+<h3>❄️ HCooling</h3>
+<a href="https://github.com/akaharo/HCooling-Installer">
+<img src="https://img.shields.io/badge/Electron-191970?style=flat-square&logo=Electron&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+</a>
+
+
+
+<p>
+Gerenciamento de perfis de energia e monitoramento de temperatura em tempo real.
+</p>
+</td>
+<td width="33%" align="center">
+<h3>🎮 HardM2 Launcher</h3>
+<a href="https://github.com/akaharo/HardM2Launcher">
+<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
+<img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/Security-🔐-yellow?style=flat-square" />
+</a>
+
+
+
+<p>
+Launcher customizado para Metin2 com verificador de integridade via Hash (MD5/SHA256) e sistema de auto-update.
+</p>
+</td>
+</tr>
+</table>
 
 ### 📊 Stats
 
