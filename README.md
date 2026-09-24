@@ -144,7 +144,7 @@ Launcher customizado para Metin2 com verificador de integridade via Hash (MD5/SH
 ### 📊 Stats
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akaharo&theme=dracula" alt="Profile Details" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akaharo&theme=dracula" width="100%" alt="Atividade no GitHub" />
 </p>
 
 </div>
